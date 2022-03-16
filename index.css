@@ -1,0 +1,32 @@
+.header{
+    padding: 0%;
+    width:auto;
+    height: 5vh;
+}
+.skills{
+    background-color:teal; 
+    color: white; 
+}
+.aboutMe{ 
+    background-color:gray; 
+    color: white;
+    min-height: 50%;
+}
+.links{
+    background-color:rgb(224, 148, 6); 
+    color: white; 
+}
+.picture{
+    background-color:rgb(221, 235, 245);
+    width:auto; 
+    opacity: 0.85;
+}
+div{          
+    text-align: center;
+    padding: 1%;  
+    height: 30vh;     
+} 
+img{
+    width: 30%;
+    border-radius:20%;
+}
