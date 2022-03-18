@@ -1,18 +1,22 @@
 .header{
+    text-size-adjust: auto;
     padding: 0%;
     width:auto;
     height: 5vh;
 }
 .skills{
+    text-size-adjust: auto;
     background-color:teal; 
     color: white; 
 }
 .aboutMe{ 
+    text-size-adjust: auto;
     background-color:gray; 
     color: white;
     min-height: 50%;
 }
 .links{
+    text-size-adjust: auto;
     background-color:rgb(224, 148, 6); 
     color: white; 
 }
