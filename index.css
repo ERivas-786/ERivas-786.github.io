@@ -19,7 +19,7 @@
 .picture{
     background-color:rgb(221, 235, 245);
     width:auto; 
-    opacity: 0.85;
+   
 }
 div{          
     text-align: center;
@@ -27,6 +27,7 @@ div{
     height: 30vh;     
 } 
 img{
-    width: 30%;
+    width: 60vh;
     border-radius:20%;
+    height: 30vh;
 }
