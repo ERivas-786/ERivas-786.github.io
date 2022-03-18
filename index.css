@@ -24,10 +24,10 @@
 div{          
     text-align: center;
     padding: 1%;  
-    height: 30vh;     
+    height: auto;     
 } 
 img{
-    width: 60vh;
+    width: 30%;
     border-radius:20%;
-    height: 30vh;
+    height: 30%d;
 }
